@@ -1,3 +1,4 @@
+#Aluguel de carro, quantos KM e quantos dias, exibe o total do custo.
 kmrod = float(input("Quantos KM você rodou?.: "))
 qtdias = int(input("Quantos dias você utilizou o carro?.: "))
 carrodia = float(60.00)
