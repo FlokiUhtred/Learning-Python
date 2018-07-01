@@ -1,3 +1,4 @@
+#CÓDIGO EM PYTHON PARA ACHAR O DOBRO, TRIPLO E A RAIZ DE UM NÚMERO QUALQUER.
 number = float(input("Digite um número.: "))
 dnumber = float(number*2)
 tnumber = float(number*3)
